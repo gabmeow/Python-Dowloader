@@ -1,5 +1,5 @@
 f = open('myfile.py', 'w')
-f.write("print('ciao')")
+f.write("print('Hi')")
 
 f.write("\ninput()\n")
 
