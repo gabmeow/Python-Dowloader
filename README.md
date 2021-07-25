@@ -5,7 +5,9 @@ You can use this to create EVERY TYPE OF FILE like: .py, .jar, .txt, .bat, .c#, 
 
 ONLY AT INFORMATIVE SCOPE
 
-**UPDATED**
+**UPDATED V2**
+**UPDATE LOG**
+Added examples that can help you whit your code!
 
 #Examples
 **QUICK EXAMPLE (py)**
