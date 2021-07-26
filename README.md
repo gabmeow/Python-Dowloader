@@ -20,19 +20,33 @@ f.close
 # QUICK EXAMPLE (C#)
 
 f = open("Test.c#", "w")
+
 f.write("using System;")
+
 f.write(" \n")
+
 f.write("namespace Test\n")
+
 f.write("{ \n")
+
 f.write("    class Program\n")
+
 f.write("        {\n")
+
 f.write("            static void Main(string[] args\n")
+
 f.write("            {\n")
+
 f.write("                Console.WriteLine("Hi");
+
 f.write("            }\n")
+
 f.write("        }\n")
+
 f.write("    }\n")
+
 f.write("}\n")
+
 f.close
 
 # QUICK EXAMPLE (C)
