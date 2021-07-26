@@ -9,8 +9,7 @@ ONLY AT INFORMATIVE SCOPE
 **UPDATE LOG**
 Added examples that can help you whit your code!
 
-#Examples
-**QUICK EXAMPLE (py)**
+# QUICK EXAMPLE (py)
   
 f = open('myfile.py', 'w')
 f.write("print('Hi')")
@@ -18,7 +17,7 @@ f.write("\ninput()\n")
 
 f.close
 
-**QUICK EXAMPLE (C#)**
+# QUICK EXAMPLE (C#)
 
 f = open("Test.c#", "w")
 f.write("using System;")
@@ -36,7 +35,7 @@ f.write("    }\n")
 f.write("}\n")
 f.close
 
-**QUICK EXAMPLE (C)**
+# QUICK EXAMPLE (C)
 f = open("Test.c", "w")
 f.write("#include <stdio.h>")
 f.write("main()\n")
