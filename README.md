@@ -12,7 +12,9 @@ Added examples that can help you whit your code!
 # QUICK EXAMPLE (py)
   
 f = open('myfile.py', 'w')
+
 f.write("print('Hi')")
+
 f.write("\ninput()\n")
 
 f.close
@@ -51,10 +53,15 @@ f.close
 
 # QUICK EXAMPLE (C)
 f = open("Test.c", "w")
+
 f.write("#include <stdio.h>")
+
 f.write("main()\n")
+
 f.write("{\n")
+
 f.write("           prinf('Test')\n")
+
 f.write("}\n")
 
 **By me**
